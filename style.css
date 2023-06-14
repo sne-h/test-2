@@ -1,0 +1,81 @@
+.logob
+{
+    width: 60px;
+    height: 60px;
+}
+.nav-item
+{
+    color: black;
+    font-size: 26px;
+}
+
+.nav-link:hover
+{
+    color: rgb(228, 111, 246);
+}
+.main-text
+{
+    font-family: poppins;
+    margin: 20px;
+    margin-left: 5px;
+
+
+}
+.text-center
+{
+    color: rgb(187, 5, 105) !important;
+}
+.redcol
+{
+    
+    color: rgb(113, 7, 135) !important;
+    font-weight: bold;
+}
+.my-btn
+{
+    border-color: rgb(34, 1, 66);
+    color: rgb(26, 2, 17);
+    background-color: rgb(241, 96, 171);
+}
+.my-btn:hover
+{
+    color: rgb(51, 3, 95) !important;
+    background-color: rgb(204, 172, 234) !important;
+    border-color: rgb(32, 2, 60);
+}
+.btn-outline-success
+{
+    background-color: rgb(227, 205, 248);
+    color: rgb(228, 9, 104);
+    border-color: rgb(73, 1, 62);
+}
+.btn-outline-success:hover
+{
+    color: rgb(233, 161, 198);
+    background-color: rgb(84, 4, 121);
+}
+.carousel-indicators
+{
+    size: 50px;
+}
+.carousel-item
+{
+    size: 30px;
+}
+.card-img
+{
+    width:100%;
+    height:200px;
+    padding: 30px;
+
+}
+
+.product
+{
+    margin-top: 10px;
+    margin-bottom: 10 px;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bolder;
+    color: rgba(251, 6, 174, 0.475);
+}
